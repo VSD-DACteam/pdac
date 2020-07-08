@@ -5,8 +5,7 @@
 
 ``` Magic VLSI```
 
-### Installation Steps for LINUX
-> Steps to install ``` LTSpice XVII ```
+## Steps to install ``` LTSpice XVII ``` on LINUX
 1. It`s not directly supported, so we need to download ```WineHQ```. Wine is a linux software that creates windows environment and allows you to run various windows programs.
 2. Copy paste the commands mentioned below one after the other in the terminal for downloading and installing.
 ``` 
@@ -21,7 +20,7 @@ sudo apt install --install-recommends winehq-stable
 5. Install it by clicking on ``` -> next ```.
 6. After installing , click on open with ```WineHQ windows program loader```.
 ``` LTSpice is now installed and you can design the circuit```
-> Steps to install ```Ngspice```
+## Steps to install ```Ngspice``` on LINUX
 It’s Super Easy! simply click on Copy button to copy the command and paste into your command line terminal using built-in APT package manager.
 
 1. Run update command to update package repositories and get latest package information ```sudo apt-get update -y```
@@ -29,8 +28,7 @@ It’s Super Easy! simply click on Copy button to copy the command and paste int
 3. Check the system logs to confirm that there are no related errors.
 Note: ```-y```flag means to assume yes and silently install, without asking you questions in most cases
 
-
-> Steps to install ```Magic VLSI```
+### Steps to install ```Magic VLSI``` on LINUX
 1. Download the [magic.sh file](https://drive.google.com/file/d/1F0y1xuYWIgeYEpzKnGlaCQH3urdSFc4E/view)
 2. Copy paste the below commands one after another
 ``` 
@@ -50,7 +48,7 @@ cd
 clear
 ```
 * You have successfully added osu180nm.tech file!
-Just open the terminal and type ```magic -T osu180nm.tech``` .
+* Just open the terminal and type ```magic -T osu180nm.tech``` .
 
 
 
