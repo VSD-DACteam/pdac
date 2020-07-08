@@ -48,7 +48,7 @@ chmod +x magic.sh
 ./magic.sh
 
 ```
-* Magic tool will be opened with minimum technology file by default but we have to use osu180nm tech file. Follow below steps to open magic with osu180nm tech file.
+* Magic tool will be opened with minimum technology file by default.Follow below steps to open magic with osu180nm tech file.
 3. Download the ```osu180nm.tech``` file from the uploaded files. Copy and paste the entire content in ```Text Editor``` and save it as ```osu180nm.tech```.
 4. Open the Terminal and copy, paste the commands mentioned below.
 ```
