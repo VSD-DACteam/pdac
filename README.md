@@ -3,7 +3,7 @@
 
 ``` Ngspice ```
 
-``` Magic ```
+``` Magic VLSI```
 
 ### Installation Steps for LINUX
 > Steps to install ``` LTSpice XVII ```
