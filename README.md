@@ -21,7 +21,7 @@ sudo apt install --install-recommends winehq-stable
 5. Install it by clicking on ``` -> next ```.
 6. After installing , click on open with ```WineHQ windows program loader```.
 ``` LTSpice is now installed and you can design the circuit```
-> Steps to install Ngspice
+> Steps to install ```Ngspice```
 * Open the terminal and type the command ``` sudo apt-get install -y ngspice```.
 
 > Steps to install ```Magic VLSI```
