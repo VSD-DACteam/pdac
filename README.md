@@ -26,6 +26,7 @@ It’s Super Easy! simply click on Copy button to copy the command and paste int
 1. Run update command to update package repositories and get latest package information ```sudo apt-get update -y```
 2. Run the install command with -y flag to quickly install the packages and dependencies ```sudo apt-get install -y ngspice```
 3. Check the system logs to confirm that there are no related errors.
+
 Note: ```-y```flag means to assume yes and silently install, without asking you questions in most cases
 
 ### Steps to install ```Magic VLSI``` on LINUX
