@@ -39,9 +39,10 @@ chmod +x magic.sh
 ```
 sudo cp osu180nm.tech /usr/local/lib/magic/sys/
 cd /usr/local/lib/magic/sys/
-ls * to make sure that osu180nm.tech file is there. If it`s type 
+ls 
 cd
 clear
+magic -T osu180nm.tech
 ```
 
 
