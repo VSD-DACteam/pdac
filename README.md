@@ -42,8 +42,10 @@ cd /usr/local/lib/magic/sys/
 ls 
 cd
 clear
-magic -T osu180nm.tech
 ```
+* You have successfullu added osu180nm.tech file!
+Just open the terminal and type ```magic -T osu180nm.tech``` .
+
 
 
 
