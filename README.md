@@ -1,6 +1,8 @@
 # Open Source EDA Tools used to design the IP
 ``` LTSpice XVII ```
+
 ``` Ngspice ```
+
 ``` Magic ```
 
 ### Installation Steps 
@@ -15,7 +17,7 @@ sudo apt update
 sudo apt install --install-recommends winehq-stable
 ```
 3. Download [LTSpice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html).
-4. Click on ```Donload for Windows```.
+4. Click on ```Download for Windows```.
 5. Install it by clicking on ``` -> next ```.
 6. After installing , click on open with ```WineHQ windows program loader```.
 
