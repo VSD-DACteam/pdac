@@ -19,12 +19,12 @@ sudo apt install --install-recommends winehq-stable
 4. Click on ```Download for Windows```.
 5. Install it by clicking on ``` -> next ```.
 6. After installing , click on open with ```WineHQ windows program loader```.
-``` LTSpice is now installed and you can design the circuit```
+> ```LTSpice``` is now installed and you can design the circuit```
 
 ## Steps to install ``` LTSpice XVII ``` on   WINDOWS
 1. Just click on [LTSpice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) and go to ```Download LTSpice->Download for Windows```.
 2. Now click on the application ltspice from your ```downloads``` and accept and continue.
-3. ```LTSpice``` is now installed and ready to use.
+> ```LTSpice``` is now installed and you can design the circuit by opening it.
 
 ## Steps to install ```Ngspice``` on LINUX
 It’s Super Easy! simply click on Copy button to copy the command and paste into your command line terminal using built-in APT package manager.
@@ -37,7 +37,7 @@ Note: ```-y```flag means to assume yes and silently install, without asking you 
 
 ## Steps to install Ngspice on WINDOWS
 1. Click on [ngspice](http://ngspice.sourceforge.net/download.html) and go to ```Downloads->Download Latest Version```.
-2. ```ngspice``` is now downloaded and ready to use.
+> ```ngspice``` is now downloaded and ready to use
 
 ## Steps to install ```Magic VLSI``` on LINUX
 1. Download the [magic.sh file](https://drive.google.com/file/d/1F0y1xuYWIgeYEpzKnGlaCQH3urdSFc4E/view)
