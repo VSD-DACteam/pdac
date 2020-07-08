@@ -36,7 +36,7 @@ It’s Super Easy! simply click on Copy button to copy the command and paste int
 Note: ```-y```flag means to assume yes and silently install, without asking you questions in most cases
 
 ## Steps to install Ngspice on WINDOWS
-1. Click on [ngspice](http://ngspice.sourceforge.net/download.html) and go to ```Downloads->Download Latest Version```.
+Click on [ngspice](http://ngspice.sourceforge.net/download.html) and go to ```Downloads->Download Latest Version```.
 > ```ngspice``` is now downloaded and ready to use
 
 ## Steps to install ```Magic VLSI``` on LINUX
