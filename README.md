@@ -5,9 +5,9 @@
 
 ``` Magic ```
 
-### Installation Steps 
-> Steps for installaton of ``` LTSpice XVII ``` in LINUX
-1. It`s not directly supported, so we need to download ```WineHQ```
+### Installation Steps for LINUX
+> Steps to install ``` LTSpice XVII ```
+1. It`s not directly supported, so we need to download ```WineHQ```. Wine is a linux software that creates windows environment and allows you to run various windows programs.
 2. Copy paste the commands mentioned below one after the other in the terminal for downloading and installing.
 ``` 
 sudo dpkg --add-architecture i386
@@ -20,4 +20,18 @@ sudo apt install --install-recommends winehq-stable
 4. Click on ```Download for Windows```.
 5. Install it by clicking on ``` -> next ```.
 6. After installing , click on open with ```WineHQ windows program loader```.
+``` LTSpice is now installed and you can design the circuit```
+> Steps to install Ngspice
+Open the terminal and type the command ``` sudo apt-get install -y ngspice```.
+
+> Steps to install ```Magic VLSI```
+1. Download the [magic.sh file](https://drive.google.com/file/d/1F0y1xuYWIgeYEpzKnGlaCQH3urdSFc4E/view)
+2. Copy paste the below commands one after another
+``` 
+cd Downloads/
+chmod +x magic.sh
+./magic.sh
+
+```
+
 
