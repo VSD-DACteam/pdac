@@ -58,8 +58,8 @@ ls
 cd
 clear
 ```
-* You have successfully added osu180nm.tech file!
-* Just open the terminal and type ```magic -T osu180nm.tech``` .
+5. You have successfully added osu180nm.tech file!
+6. Just open the terminal and type ```magic -T osu180nm.tech``` .
 
 
 
